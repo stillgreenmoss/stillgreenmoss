@@ -1,1 +1,1 @@
-my personal repositories are at [codeberg](https://codeberg.org/stillgreenmoss)
+my stuff is at [codeberg](https://codeberg.org/stillgreenmoss)
